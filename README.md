@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Prakash</h1>
-<h3 align="center">Backend Developer | DevOps Enthusiast | Cloud Learner</h3>
+<h3 align="center">Full-Stack Developer | DevOps Enthusiast | Cloud Learner</h3>
 
 <p align="center">
 🚀 Passionate about building scalable web applications, automating infrastructure, and delivering clean backend code.
@@ -11,7 +11,7 @@
 
 <p>
   <a href="mailto:Abhinavkumar8789@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abhinav12222363/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abhinav-prakash-ba471a258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/abhinav12222363"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
