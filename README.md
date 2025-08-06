@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | DevOps Enthusiast | Cloud Learner</h3>
 
 <p align="center">
-🚀 Passionate about building scalable web applications, automating infrastructure, and delivering clean backend code.
+🚀 Passionate about building scalable web applications, automating infrastructure, and delivering clean code.
 </p>
 
 ---
