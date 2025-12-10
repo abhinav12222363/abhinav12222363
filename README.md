@@ -3,9 +3,9 @@
 
 <p align="center">
 🚀 Passionate about building scalable web applications, automating infrastructure, and delivering clean code.
-  👯 I’m looking to collaborate on open-source projects and student-friendly tech tools
-  🤝 I’m looking for help with system design concepts and advanced backend techniques
-  🌱 I’m currently learning new ways to build better, faster, and cleaner applications
+  <p👯 I’m looking to collaborate on open-source projects and student-friendly tech tools</p>
+  <p🤝 I’m looking for help with system design concepts and advanced backend techniques</p>
+  <p🌱 I’m currently learning new ways to build better, faster, and cleaner applications</p>
 </p>
 
 ---
