@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhinav Prakash</h1>
 <h3 align="center">Full-Stack Developer | DevOps Enthusiast | Cloud Learner</h3>
 
-<p align="center">
+<div align="center">
 🚀 Passionate about building scalable web applications, automating infrastructure, and delivering clean code.
   <p👯 I’m looking to collaborate on open-source projects and student-friendly tech tools</p>
   <p🤝 I’m looking for help with system design concepts and advanced backend techniques</p>
   <p🌱 I’m currently learning new ways to build better, faster, and cleaner applications</p>
-</p>
+</div>
 
 ---
 
