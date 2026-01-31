@@ -66,9 +66,14 @@
 
 ### 💡 Learning & Goals
 
-- 🔥 Improving backend API performance with caching and async processing
-- ☁️ Exploring AWS services & CI/CD pipelines with Jenkins + Docker + Terraform
-- 💬 Always open to tech discussions, collaboration, and mentorship!
+
+- 🚀 Building **production-ready full-stack applications** with scalable backend architecture
+- ⚙️ Designing **RESTful APIs** with efficient data modeling, caching, and async processing
+- 🗄️ Working across **SQL and NoSQL databases** with modern ORMs and schema-driven development
+- 🧩 Structuring applications using **monorepo architectures** and optimized build pipelines
+- ☁️ Applying **DevOps & cloud practices**: containerization, orchestration, CI/CD, and infrastructure automation
+- 🌱 Learning through real-world projects, collaboration, and open-source workflows
+- 💬 Open to meaningful tech discussions, collaboration, and mentorship
 
 ---
 
