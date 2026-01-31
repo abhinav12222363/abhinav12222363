@@ -56,10 +56,12 @@
 
 ### 🚀 Projects
 
-- 🔗 [Binary Search Visualizer](https://abhinav12222363.github.io/BINARY-SEARCH-VISUALIZER/)
-- 🔗 [Amazon Clone](https://abhinav12222363.github.io/Amazon-clone/)
-- 🛠️ Working on a full-stack YouTube clone with usage tracking using Node.js + MongoDB
 
+- 🔗 [Affiliate Link Management Platform (Full-Stack)](https://github.com/abhinav12222363/Affiliate-Full-Stack-Affiliate-Link-Management-Platform-)  
+  Full-stack web application for managing affiliate links with authentication and link tracking.
+
+- 🔗 [WordPress on Kubernetes – DevOps Project](https://github.com/abhinav12222363/wordpress-k8s-devops)  
+  WordPress deployment using Docker & Kubernetes focusing on containerization and scalability.
 ---
 
 ### 💡 Learning & Goals
